@@ -1,0 +1,44 @@
+img {
+  display: block;
+}
+
+#image {
+  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  font-family: verdana, sans-serif;
+  background-color: lightblue;
+  padding: 20px;
+}
+
+figcaption {
+  padding-top: 3vh;
+  text-align: center;
+  padding-bottom: 4vh;
+}
+
+#tribute-link {
+  text-align: center;
+}
+
+
+h1 {
+  text-align: center;
+  padding-bottom: 7vh;
+}
+
+a:hover {
+  background-color: orange;
+  cursor: pointer;
+}
+
+.page-bottom {
+  text-align: center;
+}
+
+footer {
+  padding-top: 4vh;
+}
